@@ -72,8 +72,10 @@ h2 {
 }
 
 h3 {
-  font-size: 25px;
-  line-height: 5px;
+  font-size: 30px;
+  line-height: 2px;
+  padding: 0px;
+  margin: 25px 0px 25px 0px;
 }
 #bree {
   font-family: "Bree Serif", serif;
